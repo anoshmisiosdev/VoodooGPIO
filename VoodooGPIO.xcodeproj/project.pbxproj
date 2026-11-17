@@ -33,8 +33,8 @@
 		F1F172CC1F42263A00AD98FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBE40CF624E2373400CDC4ED /* VoodooGPIOIceLakeLP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VoodooGPIOIceLakeLP.cpp; sourceTree = "<group>"; };
 		FBE40CF724E2373400CDC4ED /* VoodooGPIOIceLakeLP.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VoodooGPIOIceLakeLP.hpp; sourceTree = "<group>"; };
-		4C75E7980B6D4A5BAD6F89B6 /* VoodooGPIOTigerLakeLP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VoodooGPIOTigerLakeLP.cpp; sourceTree = \"<group>\"; };
-		AC09C3EE02B24FCA97047A9E /* VoodooGPIOTigerLakeLP.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VoodooGPIOTigerLakeLP.hpp; sourceTree = \"<group>\"; };
+		4C75E7980B6D4A5BAD6F89B6 /* VoodooGPIOTigerLakeLP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VoodooGPIOTigerLakeLP.cpp; sourceTree = "<group>"; };
+		AC09C3EE02B24FCA97047A9E /* VoodooGPIOTigerLakeLP.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = VoodooGPIOTigerLakeLP.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +113,7 @@
 				4C75E7980B6D4A5BAD6F89B6 /* VoodooGPIOTigerLakeLP.cpp */,
 				AC09C3EE02B24FCA97047A9E /* VoodooGPIOTigerLakeLP.hpp */,
 			);
-			path = \"TigerLake-LP\";
+			path = "TigerLake-LP";
 			sourceTree = \"<group>\";
 		};
 		FBE40CF524E2366B00CDC4ED /* IceLake-LP */ = {
