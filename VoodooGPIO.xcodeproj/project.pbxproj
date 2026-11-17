@@ -114,7 +114,7 @@
 				AC09C3EE02B24FCA97047A9E /* VoodooGPIOTigerLakeLP.hpp */,
 			);
 			path = "TigerLake-LP";
-			sourceTree = \"<group>\";
+			sourceTree = "<group>";
 		};
 		FBE40CF524E2366B00CDC4ED /* IceLake-LP */ = {
 			isa = PBXGroup;
